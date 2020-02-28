@@ -1,0 +1,27 @@
+{
+  "name": "privacy-booze",
+  "version": "1.0.0",
+  "description": "an extension to surf the internet in a safer way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Obadah Hammoud",
+  "license": "ISC",
+  "dependencies": {
+    "types": "^0.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Obadah-H/Privacy-Booze.git"
+  },
+  "keywords": [
+    "privacy",
+    "track-users"
+  ],
+  "bugs": {
+    "url": "https://github.com/Obadah-H/Privacy-Booze/issues"
+  },
+  "homepage": "https://github.com/Obadah-H/Privacy-Booze#readme"
+}
